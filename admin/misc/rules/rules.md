@@ -1,4 +1,4 @@
-# Team Charter — cse110-sp26-group10
+# CSE 110 Team Charter - Team 10
 
 ---
 
@@ -30,16 +30,17 @@ We commit to the following core values as a team:
 
 | Role | Member | Responsibilities |
 |------|--------|-----------------|
-| Team Lead / Project Manager | [Your Name] | Facilitate meetings, track sprint progress, liaison with TA, resolve conflicts |
-| Frontend Lead | [Member 2] | Own UI architecture, review frontend PRs, maintain design consistency |
-| Backend Lead | [Member 3] | Own API and data layer, review backend PRs |
-| Testing Lead | [Member 4] | Define testing strategy, maintain test coverage, run QA before releases |
-| Design Lead | [Member 5] | Wireframes, UI/UX standards, visual consistency |
-| DevOps / CI-CD | [Member 6] | Maintain GitHub Actions pipelines, branch protection rules, deployment |
-| Documentation Lead | [Member 7] | Maintain README, ADRs, and inline documentation standards |
+| Team Lead / Project Manager | Evan Marriott | Facilitate meetings, track sprint progress, liaison with TA, resolve conflicts |
+| Team Lead / Project Manager | Nicole Sutedja | Facilitate meetings, track sprint progress, liaison with TA, resolve conflicts |
+| Frontend Lead | [Member 1] | Own UI architecture, review frontend PRs, maintain design consistency |
+| Backend Lead | [Member 2] | Own API and data layer, review backend PRs |
+| Testing Lead | [Member 3] | Define testing strategy, maintain test coverage, run QA before releases |
+| Design Lead | [Member 4] | Wireframes, UI/UX standards, visual consistency |
+| DevOps / CI-CD | [Member 5] | Maintain GitHub Actions pipelines, branch protection rules, deployment |
+| Documentation Lead | [Member 6] | Maintain README, ADRs, and inline documentation standards |
+| General Dev | [Member 7] | Full-stack contributions across sprints |
 | General Dev | [Member 8] | Full-stack contributions across sprints |
 | General Dev | [Member 9] | Full-stack contributions across sprints |
-| General Dev | [Member 10] | Full-stack contributions across sprints |
 
 **Notes:**
 - Roles are a primary ownership structure, not a hard boundary — members are expected to contribute across areas as needed
@@ -53,19 +54,17 @@ We commit to the following core values as a team:
 ### Availability
 - Each member is expected to contribute a minimum of **~8 hours per week** to the project
 - Members should communicate scheduling conflicts **at least 48 hours in advance** when possible
-- No one is expected to be available 24/7 — but responses to messages in Discord should happen within **24 hours on weekdays**
+- No one is expected to be available 24/7 — but responses to messages in Slack should happen within **24 hours on weekdays**
 
 ### Collaboration Expectations
-- Attend the weekly team sync (Sundays, 6 PM) or notify the team in advance if you cannot
-- Post a brief async standup update in Discord every Wednesday
+- Attend the weekly team sync or notify the team in advance if you cannot
 - All code must go through a **pull request with at least one approving review** before merging to `main`
 - Do not merge your own PRs without review except in documented emergencies
 
 ### Communication
-- **Discord** is the primary async channel for team communication
+- **Slack** is the primary async channel for team communication
 - **GitHub Issues / Projects** is the source of truth for tasks and sprint work
-- **Email** is reserved for TA and instructor communication only
-- If something is urgent, tag the relevant person directly in Discord
+- If something is urgent, tag or DM the relevant person directly
 
 ---
 
@@ -75,7 +74,7 @@ We recognize that disagreements will happen. The following process outlines how 
 
 1. **Direct conversation first** — If you have an issue with a teammate, address it with them directly and respectfully before escalating
 2. **Team discussion** — If the issue is not resolved, bring it to the full team in the weekly sync for open discussion
-3. **Team Lead mediation** — If still unresolved, the Team Lead will mediate and propose a resolution
+3. **Team Lead mediation** — If still unresolved, a Team Lead will mediate and propose a resolution
 4. **TA escalation** — If the conflict is serious or the Team Lead is involved, the team will escalate to the mentor TA
 
 Dissenting opinions on technical or product decisions should be voiced during meetings. Once a decision is made by majority agreement, the team commits to it and moves forward.

@@ -32,15 +32,15 @@ We commit to the following core values as a team:
 |------|--------|-----------------|
 | Team Lead / Project Manager | Evan Marriott | Facilitate meetings, track sprint progress, liaison with TA, resolve conflicts |
 | Team Lead / Project Manager | Nicole Sutedja | Facilitate meetings, track sprint progress, liaison with TA, resolve conflicts |
-| Frontend Lead | [Member 1] | Own UI architecture, review frontend PRs, maintain design consistency |
-| Backend Lead | [Member 2] | Own API and data layer, review backend PRs |
-| Testing Lead | [Member 3] | Define testing strategy, maintain test coverage, run QA before releases |
-| Design Lead | [Member 4] | Wireframes, UI/UX standards, visual consistency |
-| DevOps / CI-CD | [Member 5] | Maintain GitHub Actions pipelines, branch protection rules, deployment |
-| Documentation Lead | [Member 6] | Maintain README, ADRs, and inline documentation standards |
-| General Dev | [Member 7] | Full-stack contributions across sprints |
-| General Dev | [Member 8] | Full-stack contributions across sprints |
-| General Dev | [Member 9] | Full-stack contributions across sprints |
+| Frontend | Prakhar Shah | Own UI architecture, review frontend PRs, maintain design consistency |
+| Backend | Aron Wu | Own API and data layer, review backend PRs |
+| Backend | Jensen Guo | Define testing strategy, maintain test coverage, run QA before releases |
+| Backend | Xuanye Wang | Wireframes, UI/UX standards, visual consistency |
+| Frontend | Kaley | Maintain GitHub Actions pipelines, branch protection rules, deployment |
+| Backend | Han Yang-Lin | Maintain README, ADRs, and inline documentation standards |
+| Frontend | Ben Luis | Full-stack contributions across sprints |
+| Frontend | Bethany Miyamoto | Full-stack contributions across sprints |
+| Data | Hudson | Full-stack contributions across sprints |
 
 **Notes:**
 - Roles are a primary ownership structure, not a hard boundary — members are expected to contribute across areas as needed

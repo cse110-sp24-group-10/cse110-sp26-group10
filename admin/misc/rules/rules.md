@@ -1,5 +1,4 @@
-# CSE 110 Team Charter
-## Team 10
+# CSE 110 Team Charter - Team 10
 
 ---
 
@@ -35,10 +34,10 @@ We commit to the following core values as a team:
 | Team Lead / Project Manager | Nicole Sutedja | Facilitate meetings, track sprint progress, liaison with TA, resolve conflicts |
 | Frontend | Prakhar Shah | Own UI architecture, review frontend PRs, maintain design consistency |
 | Backend | Aron Wu | Own API and data layer, review backend PRs |
-| QA / Testing | Jensen Guo | Define testing strategy, maintain test coverage, run QA before releases |
-| Design / UI-UX | Xuanye Wang | Wireframes, UI/UX standards, visual consistency |
-| DevOps / CI-CD | Kaley | Maintain GitHub Actions pipelines, branch protection rules, deployment |
-| Documentation | Han Yang-Lin | Maintain README, ADRs, and inline documentation standards |
+| Backend | Jensen Guo | Define testing strategy, maintain test coverage, run QA before releases |
+| Backend | Xuanye Wang | Wireframes, UI/UX standards, visual consistency |
+| Frontend | Kaley | Maintain GitHub Actions pipelines, branch protection rules, deployment |
+| Backend | Han Yang-Lin | Maintain README, ADRs, and inline documentation standards |
 | Frontend | Ben Luis | Full-stack contributions across sprints |
 | Frontend | Bethany Miyamoto | Full-stack contributions across sprints |
 | Data | Hudson | Full-stack contributions across sprints |
@@ -53,13 +52,9 @@ We commit to the following core values as a team:
 ## 4. Needs and Expectations
 
 ### Availability
-- Each member is expected to contribute a minimum of **~4 hours per week** to the project
+- Each member is expected to contribute a minimum of **~8 hours per week** to the project
 - Members should communicate scheduling conflicts **at least 48 hours in advance** when possible
 - No one is expected to be available 24/7 — but responses to messages in Slack should happen within **24 hours on weekdays**
-
-### Meeting Time
-- The weekly team sync is held during our discussion period: **Mondays 4:00 – 5:00 PM**
-- Members should attend in person or notify the team in advance if they cannot
 
 ### Collaboration Expectations
 - Attend the weekly team sync or notify the team in advance if you cannot

@@ -155,17 +155,16 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Bethany Miyamoto — *Frontend*
-![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@username](https://github.com/b3-m0) |
+| **Major** | Computer Science |
+| **Year** | 2nd Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** [I love animals, art, and flag football. I enjoy programming and researching machine learning methods.]
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** I used to horseback ride.
 
 ---
 

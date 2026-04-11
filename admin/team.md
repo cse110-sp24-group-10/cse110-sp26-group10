@@ -125,17 +125,16 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Han Yang-Lin — *Documentation*
-![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@hyanglin0](https://github.com/hyanglin0) |
+| **Major** | Computer Science |
+| **Year** | 2nd Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** I love running and playing guitar. I enjoy programming, developing games, and making small tools that make life easier.
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** My fastest mile is 4:26.
 
 ---
 

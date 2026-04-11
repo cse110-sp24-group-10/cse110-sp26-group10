@@ -167,17 +167,16 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Hudson — *Data*
-![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@hdgehrke](https://github.com/hdgehrke) |
+| **Major** | Math - Computer Science |
+| **Year** | 4th Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** I enjoy several sports, including ice hockey, field hockey, and triathlon. I like various machine learning methods, especially neural networks. I am trying to learn more about systems programming and operating systems.
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** I have raced a half-ironman
 
 ---
 

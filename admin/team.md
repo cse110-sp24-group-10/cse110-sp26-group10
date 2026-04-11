@@ -138,18 +138,18 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 
 ---
 
-### Ben Luis — *Frontend*
+### Benedict Luis — *Frontend*
 ![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [bluis1](https://github.com/bluis1) |
+| **Major** | Computer science |
+| **Year** | 3rd year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** [Outside of programming, I really enjoy tennis, piano, and art. They help me stay creative and give me a good balance between being active and relaxing. Lately, I’ve been spending time improving my programming skills too.]
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** [I can move my ears and make water droplet noise out of my cheeks]
 
 ---
 

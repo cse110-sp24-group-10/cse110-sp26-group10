@@ -94,17 +94,16 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Xuanye Wang — *Design / UI-UX*
-![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@KeeevinW](https://github.com/KeeevinW) |
+| **Major** | Computer Science |
+| **Year** | Third Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** Currently I am working for a startup as a full-stack developer / MLE. I have played golf for 16 years.
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** I'm a huge Bayern Munich fan.
 
 ---
 
@@ -113,13 +112,13 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@chungkaley](https://github.com/chungkaley) |
+| **Major** | Computer Science |
+| **Year** | 3rd Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** I enjoy working on technology solutions that are meaningful to my community. Outside of academics, I like to draw and make graphics.
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** I used to do ballet.
 
 ---
 

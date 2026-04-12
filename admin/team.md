@@ -65,17 +65,16 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Aron Wu — *Backend*
-![Headshot](link-to-photo-or-remove-line)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@arw008-droid](https://github.com/arw008-droid) |
+| **Major** | Computer Science |
+| **Year** | 2nd Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** I'm interested in many fields of computer science, including machine learning methods and embedded systems. I enjoy working out and playing video games in my free time. 
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** I am learning Italian on Duolingo.
 
 ---
 

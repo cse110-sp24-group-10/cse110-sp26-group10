@@ -6,7 +6,7 @@
 | **Meeting Type** | Kickoff Meeting |
 | **Date** | April 9, 2026 |
 | **Time** | 6:30 PM – 7:00 PM |
-| **Location** | CSE Building, Discussion Section Room |
+| **Location** | Outside Class |
 | **Minutes Recorded By** | Evan Marriott |
 ---
 ## Attendance: Mark x if Present

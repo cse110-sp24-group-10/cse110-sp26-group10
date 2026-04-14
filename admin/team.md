@@ -50,17 +50,16 @@ Our logo, featuring **'Volt'** the robotic dev sprite, is a symbol of dynamic in
 ---
 
 ### Prakhar Shah — *Frontend*
-![Headshot](link-to-photo-or-remove-line) (optional)
 
 | | |
 |---|---|
-| **GitHub** | [@username](https://github.com/username) |
-| **Major** | [Major] |
-| **Year** | [Year] |
+| **GitHub** | [@prs016](https://github.com/username) |
+| **Major** | Computer Science |
+| **Year** | 2nd Year |
 
-**About me:** [2-3 sentences about yourself, your interests, or what you're working on]
+**About me:** I am a sophmore here at UCSD and love doing anything CS related. Recently, Ive been very interested in Computer Vision, Sports Analytics and Agentic modelling. I love playing chess in my free time!
 
-**Fun fact:** [Something interesting about you]
+**Fun fact:** My favourite TV shows are HIMYM, B99 and BBT.
 
 ---
 
